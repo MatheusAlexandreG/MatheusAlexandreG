@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, chamo Matheus Alexandre, tenho 25 anos. Programador autodidata com mais de 15 cursos especializados já feitos tanto para o back-end quanto para o front-end.
+Olá, me chamo Matheus Alexandre, tenho 25 anos. Programador autodidata com mais de 15 cursos especializados já feitos tanto para o back-end quanto para o front-end.
 
 <p align="left">
     <a href="https://github.com/MatheusAlexandreG?tab=repositories&sort=stargazers">
